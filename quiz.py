@@ -1,4 +1,4 @@
-# Simple Quiz Game in Python
+# Quiz Game in Python
 
 def ask_question(question, options, correct_answer):
     """
@@ -63,4 +63,5 @@ def run_quiz():
 
 # Start the quiz
 if __name__ == "__main__":
+
     run_quiz()
